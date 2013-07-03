@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../../../addons/ofxOpenNI/src/ofxOpenNIUtils.h"
+         timestampString = "394504031.053747"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "35"
+         endingLineNumber = "35">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../../../addons/ofxOpenNI/src/ofxOpenNIUtils.h"
+         timestampString = "394512052.669497"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "359"
+         endingLineNumber = "359"
+         landmarkName = "getDepthColor(DepthColoring depthColoring, const unsigned short &amp; depth, ofColor &amp; color, int maxDepth)"
+         landmarkType = "7">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
